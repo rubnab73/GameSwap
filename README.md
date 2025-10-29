@@ -129,13 +129,12 @@ Users can earn points through various activities:
 
 ## 📚 Database Structure
 
-The system uses 6 main tables:
+The system uses 5 main tables:
 - users
 - games
 - borrow_requests
 - ratings
 - notifications
-- user_badges
 
 ## 🤝 Contributing
 
@@ -151,11 +150,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Font Awesome for the beautiful icons
 - XAMPP team for the development environment
 - All contributors and testers
-
-## 📧 Contact
-
-For any queries or support, please contact:
-[Your Email Address]
-
----
-Made with ❤️ for gamers
